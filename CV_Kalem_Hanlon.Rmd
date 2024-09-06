@@ -5,7 +5,7 @@ output: pdf_document
 ---
 kh832@cornell.edu
 
-## Profole
+## Profile
 First year masters student studying nutrition with a focus on molecular nutrition. 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -23,8 +23,8 @@ Summer position working with genetically modified bacteria in germ free mice and
 Completed immunohistochemistry staining and chromogenic in-situ hybridization on various clinical tissue samples to determine diagnostic protein and RNA expression in neuroendocrine tumours.  
 09/2023-04/2024
 
-## Edution
-**Queen’s Universe — Life Sciences Specialization - Biomedical Sciences	Class of 2024**  
+## Education
+**Queen’s University — Life Sciences Specialization - Biomedical Sciences	Class of 2024**  
 
 GPA: 4.28 | Dean’s Honour’s List with Distinction; 21’, 22’, 23’
 
